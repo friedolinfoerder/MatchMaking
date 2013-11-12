@@ -28,10 +28,10 @@ public class SecondActivityFunctionalTest extends
 
 		// set text
 		getActivity().runOnUiThread(new Runnable() {
-
-			@Override
+			
 			public void run() {
-				textView.setText(NEW_TEXT);
+				// TODO Auto-generated method stub
+				
 			}
 		});
 
